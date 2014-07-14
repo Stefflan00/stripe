@@ -3,7 +3,7 @@ PATH
   specs:
     shoppe-stripe (1.2.1)
       coffee-rails (~> 4.0.0w)
-      shoppe (~> 0.0.9)
+      shoppe (~> 1.0.1)
       stripe (~> 1.8.7)
 
 GEM
